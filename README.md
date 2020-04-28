@@ -12,6 +12,9 @@ A useful gigabyte software control software and easy to use.
 ### ShadowSocks
 very useful software VPN. https://github.com/shadowsocks/shadowsocks-windows
 
+### Clash for Windows
+A similar VPN software. https://github.com/Dreamacro/clash
+
 
 
 
