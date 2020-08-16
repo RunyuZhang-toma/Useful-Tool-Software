@@ -24,3 +24,8 @@ If somebody have the ability to automatically hide the TIM QQ and YY to the back
 
 ## MacOs list
 ---
+### 自动切换输入法
+Automatically switch the input methods for differnet software.
+
+### Scroll Reverser 2
+Set the mouse and trackpad scroll orientation seperately.
